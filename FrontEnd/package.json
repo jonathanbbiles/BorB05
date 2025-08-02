@@ -1,0 +1,15 @@
+{
+  "name": "bullishorbust-frontend",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start --clear"
+  },
+  "dependencies": {
+    "expo": "^51.0.0",
+    "expo-constants": "^15.4.2",
+    "react": "^18.2.0",
+    "react-native": "^0.74.1",
+    "dotenv": "^16.4.5"
+  }
+}
